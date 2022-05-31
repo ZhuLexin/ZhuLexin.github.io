@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+火龙果团队创建于2021年 感谢您支持火龙果团队
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+欢迎加入火龙果团队 请发邮件至dragonfruit@groups.163.com申请加入
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+dragonfruit@groups.163.com
