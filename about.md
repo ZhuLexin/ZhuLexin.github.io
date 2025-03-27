@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-火龙果团队创建于2021年 感谢您支持火龙果团队
+我是火龙果，本站为软件开发与编程所建，与大家分享、交流学习成果。
 
 ### More Information
 
-欢迎加入火龙果团队 请发邮件至dragonfruit@groups.163.com申请加入
+欢迎访问我的主页 dragonfruitcloud.xyz
 
 ### Contact me
 
-dragonfruit@groups.163.com
+有事请联系 hlg2024@yeah.net
